@@ -1,7 +1,7 @@
-H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+<H3>ENTER YOUR NAME:MITHUN KUMAR.G</H3>
+<H3>ENTER YOUR REGISTER NO:212224230160</H3>
 <H3>EX. NO.5</H3>
-<H3>DATE:</H3>
+<H3>DATE:24-10-2025</H3>
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
 <H3>Aim:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
